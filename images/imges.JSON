@@ -1,0 +1,59 @@
+{
+    "ilustrative help": 
+    [
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/start.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/create_account_button.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/log-in_email.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/verify.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/ec2_chosen.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/launch_ins.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/all.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/create_key.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/firewall.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/key.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/save_key.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/launch.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/start_ins.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/ssh.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/terminal.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/choose_ip.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/run_w_ip.png"
+        },
+        {
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/.png"
+        }
+    ]
+}
