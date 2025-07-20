@@ -1,0 +1,89 @@
+{
+    "ilustrative_help": [
+        {
+            "step": "STEP 1",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/start.png",
+            "instruction": "Go to the AWS website."
+        },
+        {
+            "step": "STEP 2",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/create_account_button.png",
+            "instruction": "Locate the create account button on the website if you don't have an account. Otherwise, click on log-in."
+        },
+        {
+            "step": "STEP 3",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/log-in_email.png",
+            "instruction": "Select log-in with root email and type your email and password."
+        },
+        {
+            "step": "STEP 4",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/verify.png",
+            "instruction": "Verify your account."
+        },
+        {
+            "step": "STEP 5",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/ec2_chosen.png",
+            "instruction": "Go to the EC2 service."
+        },
+        {
+            "step": "STEP 6",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/launch_ins.png",
+            "instruction": "Click on 'Launch instances'."
+        },
+        {
+            "step": "STEP 7",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/all.png",
+            "instruction": "Configure the instance details."
+        },
+        {
+            "step": "STEP 8",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/create_key.png",
+            "instruction": "Create a new key pair."
+        },
+        {
+            "step": "STEP 9",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/firewall.png",
+            "instruction": "Configure the security group (firewall)."
+        },
+        {
+            "step": "STEP 10",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/key.png",
+            "instruction": "Name and save your key pair."
+        },
+        {
+            "step": "STEP 11",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/save_key.png",
+            "instruction": "Download and save the key pair file."
+        },
+        {
+            "step": "STEP 12",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/launch.png",
+            "instruction": "Launch the instance."
+        },
+        {
+            "step": "STEP 13",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/start_ins.png",
+            "instruction": "Wait for the instance to start."
+        },
+        {
+            "step": "STEP 14",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/ssh.png",
+            "instruction": "Connect to the instance using SSH."
+        },
+        {
+            "step": "STEP 15",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/terminal.png",
+            "instruction": "Open a terminal."
+        },
+        {
+            "step": "STEP 16",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/choose_ip.png",
+            "instruction": "Copy the public IPv4 address of your instance."
+        },
+        {
+            "step": "STEP 17",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/run_w_ip.png",
+            "instruction": "Run the SSH command with the IP address."
+        }
+    ]
+}
