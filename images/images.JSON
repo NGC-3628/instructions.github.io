@@ -84,6 +84,21 @@
             "step": "STEP 17",
             "url": "https://ngc-3628.github.io/instructions.github.io/images/run_w_ip.png",
             "instruction": "Run the SSH command with the IP address."
+        },
+        {
+            "step": "STEP 18",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/20.png",
+            "instruction": "After you have accessed into the Virtual Machine install git and clone the repository in the machine."
+        },
+        {
+            "step": "STEP 19",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/21.png",
+            "instruction": "double check if the directory was created with ls command in terminal."
+        },
+        {
+            "step": "STEP 20",
+            "url": "https://ngc-3628.github.io/instructions.github.io/images/22.png",
+            "instruction": "while in terminal move the repository's foler into the apache server with directory/repo /var/www/html."
         }
     ]
 }
