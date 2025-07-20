@@ -20,7 +20,8 @@ async function getInstructionDetails() {
 }
 
 function displayDetails(details, container) {
-    if (details && details.ilustrative_help) {
+    if (details && details.ilustrative_help) 
+    {
         details.ilustrative_help.forEach(item => {
             const card = document.createElement('div');
             card.classList.add('card');
@@ -31,6 +32,12 @@ function displayDetails(details, container) {
             const img = document.createElement('img');
             img.src = item.url;
             img.alt = "Instructional Image";
+
+            img.onload = function() {
+                if (this.naturalWidth > 800) {
+                    this.style.width = (this.naturalWidth * 0.8) + 'px';
+                }
+            };
 
             const instruction = document.createElement('p');
             instruction.textContent = item.instruction;
